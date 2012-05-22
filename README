@@ -7,6 +7,4 @@ It aims to be faster that using a compound class as key.
 Build
 -----
 
-```
 mvn clean install
-```
